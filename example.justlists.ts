@@ -9,6 +9,14 @@
             "name":"SUN TOKEN",
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
+           {
+            "symbol":"SUN",
+            "address":"TKkeiboTkxXKJpbmVFbv4a8ov5rAfRDMf9",
+            "chainId":1,
+            "decimals":18,
+            "name":"SUN TOKEN",
+            "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
+        },
         {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
